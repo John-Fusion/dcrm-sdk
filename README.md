@@ -5,6 +5,10 @@ When used in context of blockchain, this module can serve as a non-custodial sol
 
 This SDK allows you to connect to Fusion's sandox direclt in either 1) a 2+1 configuration where you form a private group with 2 fusion nodes and your own or 2) a local configuration where you can set any ownership of nodes in your group. 
 
+This library contains 2 parts:
+1) Distirbuted key generation which returns the public key (dcrm_genPubkey)
+2) Distributed signing of transactions (dcrm_sign)
+
 ## Clone The Repository
 mkdir -p $GOPATH/src/github.com/fsn-dev
 
