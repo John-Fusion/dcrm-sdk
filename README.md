@@ -1,4 +1,4 @@
-## Intro
+# Intro
 DCRM 5.0 is a distributed key generation (used for holding assets) and distributed transaction signature (used for sending assets) module that forms the cornerstone of decentralized value exchange and data access control.  This technology was developed for over a year, with the feedback of 4 leading cryptographers: Rosario Gennaro, Dr. Pascal Paillier. 
 
 When used in context of blockchain, this module can serve as a non-custodial solution, a keyless wallet, a component to an interoperable solution, and more. Please read the wiki for more infomration.
