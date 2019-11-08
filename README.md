@@ -9,6 +9,7 @@ This library contains 2 functions:
 1) Distributed key generation which returns the public key (dcrm_genPubkey)
 2) Distributed signing of transactions (dcrm_sign)
 
+# Setting Up
 ## Clone The Repository
 mkdir -p $GOPATH/src/github.com/fsn-dev
 
@@ -26,7 +27,7 @@ make
 
 ./bin/cmd/gdcrm
 
-## JSON RPC API
+# JSON RPC API
 
 Default rpc port: 5559
 
